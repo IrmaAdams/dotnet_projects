@@ -1,0 +1,14 @@
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\bin\Debug\net6.0\CsharpDataStructures.exe
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\bin\Debug\net6.0\CsharpDataStructures.deps.json
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\bin\Debug\net6.0\CsharpDataStructures.runtimeconfig.json
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\bin\Debug\net6.0\CsharpDataStructures.dll
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\bin\Debug\net6.0\CsharpDataStructures.pdb
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\obj\Debug\net6.0\CsharpDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\obj\Debug\net6.0\CsharpDataStructures.AssemblyInfoInputs.cache
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\obj\Debug\net6.0\CsharpDataStructures.AssemblyInfo.cs
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\obj\Debug\net6.0\CsharpDataStructures.csproj.CoreCompileInputs.cache
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\obj\Debug\net6.0\CsharpDataStructures.dll
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\obj\Debug\net6.0\refint\CsharpDataStructures.dll
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\obj\Debug\net6.0\CsharpDataStructures.pdb
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\obj\Debug\net6.0\CsharpDataStructures.genruntimeconfig.cache
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\CsharpDataStructures\CsharpDataStructures\obj\Debug\net6.0\ref\CsharpDataStructures.dll
