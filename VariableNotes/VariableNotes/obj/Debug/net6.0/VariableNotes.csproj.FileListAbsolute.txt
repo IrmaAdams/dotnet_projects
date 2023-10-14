@@ -1,0 +1,14 @@
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\bin\Debug\net6.0\VariableNotes.exe
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\bin\Debug\net6.0\VariableNotes.deps.json
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\bin\Debug\net6.0\VariableNotes.runtimeconfig.json
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\bin\Debug\net6.0\VariableNotes.dll
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\bin\Debug\net6.0\VariableNotes.pdb
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\obj\Debug\net6.0\VariableNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\obj\Debug\net6.0\VariableNotes.AssemblyInfoInputs.cache
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\obj\Debug\net6.0\VariableNotes.AssemblyInfo.cs
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\obj\Debug\net6.0\VariableNotes.csproj.CoreCompileInputs.cache
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\obj\Debug\net6.0\VariableNotes.dll
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\obj\Debug\net6.0\refint\VariableNotes.dll
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\obj\Debug\net6.0\VariableNotes.pdb
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\obj\Debug\net6.0\VariableNotes.genruntimeconfig.cache
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\VariableNotes\VariableNotes\obj\Debug\net6.0\ref\VariableNotes.dll

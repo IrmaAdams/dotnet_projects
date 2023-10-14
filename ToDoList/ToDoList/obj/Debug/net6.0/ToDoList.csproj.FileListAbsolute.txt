@@ -1,0 +1,14 @@
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.exe
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.dll
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.dll
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+C:\Users\stryd\Desktop\portfolio\dotnet\main\dotnet_projects\ToDoList\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
